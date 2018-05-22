@@ -27,7 +27,7 @@ _Please contact Will at 555-1212 for assistance when you have trouble_
 
 _HTML and caffeine_
 
-##License
+## License
 
 _Restricted licensing: only to be used by left-handed people
-Copyright (c) 2018 **_Yoyodyne Enterprises_**
+Copyright (c) 2018 **_Yoyodyne Enterprises_**_
